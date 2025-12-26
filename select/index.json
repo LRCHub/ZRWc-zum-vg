@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "RED WING【赤羽駅】",
+  "base_artist": "ぎん",
+  "createdAt": "2025-12-26T08:45:16.560629Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Wings",
+      "artist": "吟呼",
+      "has_synced": false,
+      "path": "select/pl_01_Wings_吟呼.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Wings",
+      "artist": "吟呼",
+      "has_synced": false,
+      "path": "select/pl_02_Wings_吟呼.txt"
+    }
+  ]
+}
